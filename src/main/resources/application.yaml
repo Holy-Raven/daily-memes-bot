@@ -1,0 +1,12 @@
+server:
+  port: 2020
+  servlet:
+    context-path: /dmb
+
+spring:
+  application:
+    name: DailyMemesBot
+
+bot-properties:
+  name: t.me/mkhamkha_mem_bot
+  token: 7300690466:AAE2R-qo6aS43QgTqUSHPDe5xSodUOrdaOo
